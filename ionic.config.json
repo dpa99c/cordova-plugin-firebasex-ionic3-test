@@ -1,0 +1,7 @@
+{
+  "name": "firebasex.ionic3example",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
